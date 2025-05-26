@@ -14,7 +14,6 @@ class_names = class_data["names"]
 app = Flask(__name__)
 model = YOLO("best.pt")  # Load your YOLOv8 classification model
 
-@app.route("/predict", methods=["POST"])
 @app.route('/predict', methods=['POST'])
 def predict():
     if 'image' not in request.files:
