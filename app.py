@@ -3,6 +3,7 @@ from PIL import Image
 from ultralytics import YOLO
 import io
 import yaml
+import os
 
 # Load class names from your YAML file
 with open("data (1).yaml", "r") as f:
@@ -34,4 +35,5 @@ def predict():
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host='0.0.0.0', port=port)
