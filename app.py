@@ -12,7 +12,7 @@ with open("data (1).yaml", "r") as f:
 class_names = class_data["names"]
 
 app = Flask(__name__)
-model = YOLO("best.pt")  # Load your YOLOv8 classification model
+model = YOLO("best (2).pt")  # Load your YOLOv8 classification model
 
 @app.route('/predict', methods=['POST'])
 def predict():
