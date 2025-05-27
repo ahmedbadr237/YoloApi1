@@ -3,12 +3,9 @@ from PIL import Image
 from ultralytics import YOLO
 import io
 import yaml
-<<<<<<< HEAD
 import requests
-
-=======
 import os
->>>>>>> 38a5b5df4733c2218f1c13983a24d61860f38e15
+
 
 # Load class names from your YAML file
 with open("data (1).yaml", "r") as f:
