@@ -1,0 +1,111 @@
+{
+    "bechamel": {
+      "calories": "450 kcal",
+      "proteins": "18 g",
+      "carbohydrates": "35 g",
+      "fat": "25 g",
+      "sugars": "6 g",
+      "fiber": "2 g",
+      "saturated_fat": "12 g",
+      "cholesterol": "65 mg",
+      "sodium": "500 mg",
+      "potassium": "300 mg"
+    },
+    "molokhya": {
+      "calories": "150 kcal",
+      "proteins": "6 g",
+      "carbohydrates": "10 g",
+      "fat": "8 g",
+      "sugars": "2 g",
+      "fiber": "4 g",
+      "saturated_fat": "1 g",
+      "cholesterol": "20 mg",
+      "sodium": "200 mg",
+      "potassium": "350 mg"
+    },
+    "ataif": {
+      "calories": "290 kcal",
+      "proteins": "5 g",
+      "carbohydrates": "40 g",
+      "fat": "12 g",
+      "sugars": "30 g",
+      "fiber": "1 g",
+      "saturated_fat": "4 g",
+      "cholesterol": "25 mg",
+      "sodium": "150 mg",
+      "potassium": "120 mg"
+    },
+    "besala": {
+      "calories": "180 kcal",
+      "proteins": "7 g",
+      "carbohydrates": "15 g",
+      "fat": "10 g",
+      "sugars": "3 g",
+      "fiber": "3 g",
+      "saturated_fat": "2 g",
+      "cholesterol": "15 mg",
+      "sodium": "180 mg",
+      "potassium": "250 mg"
+    },
+    "fool": {
+      "calories": "320 kcal",
+      "proteins": "14 g",
+      "carbohydrates": "40 g",
+      "fat": "12 g",
+      "sugars": "4 g",
+      "fiber": "9 g",
+      "saturated_fat": "1.5 g",
+      "cholesterol": "0 mg",
+      "sodium": "400 mg",
+      "potassium": "450 mg"
+    },
+    "konafa": {
+      "calories": "420 kcal",
+      "proteins": "6 g",
+      "carbohydrates": "50 g",
+      "fat": "22 g",
+      "sugars": "30 g",
+      "fiber": "1 g",
+      "saturated_fat": "10 g",
+      "cholesterol": "40 mg",
+      "sodium": "180 mg",
+      "potassium": "150 mg"
+    },
+    "koshary": {
+      "calories": "400 kcal",
+      "proteins": "12 g",
+      "carbohydrates": "65 g",
+      "fat": "10 g",
+      "sugars": "5 g",
+      "fiber": "8 g",
+      "saturated_fat": "2 g",
+      "cholesterol": "0 mg",
+      "sodium": "300 mg",
+      "potassium": "400 mg"
+    },
+    "pasposa": {
+      "calories": "360 kcal",
+      "proteins": "4 g",
+      "carbohydrates": "45 g",
+      "fat": "18 g",
+      "sugars": "30 g",
+      "fiber": "1 g",
+      "saturated_fat": "9 g",
+      "cholesterol": "35 mg",
+      "sodium": "170 mg",
+      "potassium": "120 mg"
+    },
+    "taamia": {
+      "calories": "270 kcal",
+      "proteins": "10 g",
+      "carbohydrates": "30 g",
+      "fat": "12 g",
+      "sugars": "2 g",
+      "fiber": "6 g",
+      "saturated_fat": "2 g",
+      "cholesterol": "0 mg",
+      "sodium": "250 mg",
+      "potassium": "300 mg"
+    }
+  }
+  

@@ -1,0 +1,115 @@
+train: /kaggle/working/classification_dataset/train
+val: /kaggle/working/classification_dataset/valid
+
+nc: 109
+names:
+  0: rice
+  1: eels on rice
+  2: pilaf
+  3: chicken-'n'-egg on rice
+  4: pork cutlet on rice
+  5: beef curry
+  6: sushi
+  7: chicken rice
+  8: fried rice
+  9: tempura bowl
+  10: bibimbap
+  11: toast
+  12: croissant
+  13: roll bread
+  14: raisin bread
+  15: chip butty
+  16: hamburger
+  17: pizza
+  18: sandwiches
+  19: udon noodle
+  20: tempura udon
+  21: soba noodle
+  22: ramen noodle
+  23: beef noodle
+  24: tensin noodle
+  25: fried noodle
+  26: spaghetti
+  27: Japanese-style pancake
+  28: takoyaki
+  29: gratin
+  30: sauteed vegetables
+  31: croquette
+  32: grilled eggplant
+  33: sauteed spinach
+  34: vegetable tempura
+  35: miso soup
+  36: potage
+  37: sausage
+  38: oden
+  39: omelet
+  40: ganmodoki
+  41: jiaozi
+  42: stew
+  43: teriyaki grilled fish
+  44: fried fish
+  45: grilled salmon
+  46: salmon meuniere
+  47: sashimi
+  48: grilled pacific saury
+  49: sukiyaki
+  50: sweet and sour pork
+  51: lightly roasted fish
+  52: steamed egg hotchpotch
+  53: tempura
+  54: fried chicken
+  55: sirloin cutlet
+  56: nanbanzuke
+  57: boiled fish
+  58: seasoned beef with potatoes
+  59: hambarg steak
+  60: beef steak
+  61: dried fish
+  62: ginger pork saute
+  63: spicy chili-flavored tofu
+  64: yakitori
+  65: cabbage roll
+  66: rolled omelet
+  67: egg sunny-side up
+  68: fermented soybeans
+  69: cold tofu
+  70: egg roll
+  71: chilled noodle
+  72: stir-fried beef and peppers
+  73: simmered pork
+  74: boiled chicken and vegetables
+  75: sashimi bowl
+  76: sushi bowl
+  77: fish-shaped pancake with bean jam
+  78: shrimp with chill source
+  79: roast chicken
+  80: steamed meat dumpling
+  81: omelet with fried rice
+  82: cutlet curry
+  83: spaghetti meat sauce
+  84: fried shrimp
+  85: potato salad
+  86: green salad
+  87: macaroni salad
+  88: Japanese tofu and vegetable chowder
+  89: pork miso soup
+  90: chinese soup
+  91: beef bowl
+  92: kinpira-style sauteed burdock
+  93: rice ball
+  94: pizza toast
+  95: dipping noodles
+  96: hot dog
+  97: french fries
+  98: mixed rice
+  99: goya chanpuru
+  100: Bechamel
+  101: Molokhya
+  102: ataif
+  103: besala
+  104: fool
+  105: konafa
+  106: koshary
+  107: pasposa
+  108: taamia
+
